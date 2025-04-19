@@ -1,10 +1,26 @@
 [
-    {
-      "Country": "Venezuela",
-      "Continent": "South America",
-      "ONeRATE IoT": "X",
-      "ONeRATE": "X",
-      "ONERATE IoT PLUS": 1,
-      "ONeRATE PLUS": 1
-    }
+  {
+    "Country": "Cayman Islands",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  },
+  {
+    "Country": "Costa Rica",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": 1
+  },
+  {
+    "Country": "Dominica",
+    "Continent": "North America",
+    "ONeRATE IoT": "X",
+    "ONeRATE": "X",
+    "ONERATE IoT PLUS": 1,
+    "ONeRATE PLUS": "X"
+  }
 ]
