@@ -1,24 +1,10 @@
 [
-  {
-    "Country": "United States",
-    "Continent": "North America",
-    "ONeRATE IoT": 5,
-    "ONeRATE": 3,
-    "ONERATE IoT PLUS": 6,
-    "ONeRATE PLUS": 10
-  },{
-    "Country": "Canada*",
-    "Continent": "North America",
-    "ONeRATE IoT": 4,
-    "ONeRATE": 1,
-    "ONERATE IoT PLUS": 4,
-    "ONeRATE PLUS": 6
-  },{
-    "Country": "Greenland",
-    "Continent": "North America",
-    "ONeRATE IoT": "X",
-    "ONeRATE": "X",
-    "ONERATE IoT PLUS": 1,
-    "ONeRATE PLUS": 1
-  }
+    {
+      "Country": "Venezuela",
+      "Continent": "South America",
+      "ONeRATE IoT": "X",
+      "ONeRATE": "X",
+      "ONERATE IoT PLUS": 1,
+      "ONeRATE PLUS": 1
+    }
 ]
